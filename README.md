@@ -1,4 +1,4 @@
-# scholarProject-ENISortirAPI
+# SchoolProject-ENISortirAPI
 ***
 ## General Info
 This project was created with two colleagues during my formation. The purpose of this application is to allow alumni to create and participate in student events and activities.
